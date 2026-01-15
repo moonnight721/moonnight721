@@ -37,7 +37,7 @@ I love turning data, code, and ideas into **working deep learning systems**—es
 
 ##  Fun facts
 
-- Currently learning **Japanese** and like to read economic news in English/Japanese.
+- Currently learning **Japanese** and like to read economic news in English.
 - Huge fan of **anime** and VTubers.
 - Enjoy following **financial markets** and thinking about how to turn data into strategies.
 - I like breaking complex research ideas into **step-by-step code experiments**.
